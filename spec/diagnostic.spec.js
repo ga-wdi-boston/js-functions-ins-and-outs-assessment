@@ -12,8 +12,8 @@ describe('zero or more arguments', () => {
 
   describe('sum', () => {
 
-    it('returns undefined when called without arguments', () => {
-      expect(diagnostic.sum()).to.be.undefined;
+    it('returns 0 when called without arguments', () => {
+      expect(diagnostic.sum()).to.equal(0);
     });
 
     it('returns the argument when called with just one', () => {
