@@ -54,7 +54,7 @@ describe('array creation', () => {
 
   });
 
-  describe('with default values function', () => {
+  describe('with default value function', () => {
 
     it('returns the correct array', () => {
       let length = 3;
