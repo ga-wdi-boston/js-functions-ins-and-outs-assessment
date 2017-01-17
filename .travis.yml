@@ -10,4 +10,4 @@ script: # run these scripts
   # whitelist
 branches:
     only:
-    - response
+    - 'response'
