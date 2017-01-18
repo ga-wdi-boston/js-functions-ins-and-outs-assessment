@@ -2,7 +2,10 @@
   "name": "ga-wdi-boston.js-functions-ins-and-outs-diagnostic",
   "version": "0.0.1",
   "private": true,
-  "license": "MIT",
+  "license": {
+    "software": "GNU GPLv3",
+    "content": "CC­BY­NC­SA 4.0"
+  },
   "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
@@ -17,9 +20,5 @@
     "load-grunt-config": "^0.19.2",
     "mocha": "^3.1.2",
     "time-grunt": "^1.4.0"
-  },
-  "license": {
-    "software": "GNU GPLv3",
-    "content": "CC­BY­NC­SA 4.0"
   }
 }
